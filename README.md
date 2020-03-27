@@ -3,5 +3,6 @@ This is an implementation of the dual n-back task for Matlab, similar to Brain W
 
 Layden, E. A. (2018). N-Back for Matlab. G-Node Open Data. DOI: https://doi.org/10.12751/g-node.f87128
 
+##
 If you find N-Back-for-Matlab useful and would like to support its continued development, feel free to send a cup of coffee! :) <br><br>
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/ElliotLayden?locale.x=en_US)
